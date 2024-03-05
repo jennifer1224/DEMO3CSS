@@ -1,0 +1,46 @@
+.newswindow{
+    width: 100vw; 
+    height: 70vh;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.mainheader{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:floralwhite;
+    padding-left: 40px;
+}
+
+.pageheader{
+    background-image: url("../images/pexels-rovenimagescom-949587.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 125px;
+}
+
+a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgba(235, 166, 166, 0.4);
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    color:azure 
+}
+
+a:hover{
+    background-color:rgba(235, 166, 166, 0.7);
+}
+
+
+li{
+    display: inline;
+}
+
+.menu{
+    margin-top: 57px;
+}
+
+

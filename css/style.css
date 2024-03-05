@@ -1,0 +1,30 @@
+h1{
+  color:hsl(340, 100%, 25%); 
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+  font-weight: bolder;
+}
+
+
+h2{
+    color:hsl(130, 100%, 25%); 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:coral;
+}
+
+
+.notes{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:brown;
+}
+
+
+.altheader{
+    font-size:smaller; 
+}
+
